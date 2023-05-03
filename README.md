@@ -23,3 +23,4 @@ A few screenshots:
 - Run __npm run build__ or __npm run dev__ - whichever you prefer
 - That's it: launch the main URL.
 - You can register as regular user or login as admin to manage data with default credentials __admin@admin.com__ - __password__
+# Laravel-Demo-Project-Ticket
